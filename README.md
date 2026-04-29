@@ -1,14 +1,17 @@
-# 🐺 PosWolf
-
-> **The Smart POS for Modern Businesses** — Sell products & services, track inventory, print professional receipts, and manage your team. Works 100% offline. Always.
-
----
-
 <div align="center">
+  <img src="https://poswolf.newdevz.com/logo-256.png" alt="PosWolf" width="100" />
 
-### [⬇️ Download PosWolf v1.0.1 for Windows](https://github.com/PosWolf/PosWolf/releases/download/v1.0.1/PosWolf.zip)
+  # PosWolf
 
-**Windows 10 / 11 · 64-bit · No installer — just unzip and run**
+  **The Smart POS for Modern Businesses**
+
+  Sell products & services, track inventory, print professional receipts,<br>and manage your team. Works 100% offline. Always.
+
+  ---
+
+  ### [⬇️ Download PosWolf v1.0.1 for Windows](https://github.com/PosWolf/PosWolf/releases/download/v1.0.1/PosWolf.zip)
+
+  **Windows 10 / 11 · 64-bit · No installer — just unzip and run**
 
 </div>
 
