@@ -47,8 +47,9 @@
 |------|-----|-----|
 | Monthly | ₦5,000 / mo ~~₦10,000~~ | $5 / mo ~~$10~~ |
 | Yearly | ₦50,000 / yr ~~₦100,000~~ | $45 / yr ~~$90~~ |
+| **Lifetime** | **₦1,000,000 once** ~~₦2,000,000~~ | **$1,000 once** ~~$2,000~~ |
 
-Yearly subscribers lock in today's rate permanently. Once the price increases, existing subscribers keep their current price — new signups pay the higher rate.
+Subscribers lock in today's rate permanently — once the price increases, existing subscribers keep their current price. Lifetime users pay once and never pay again, all future updates included.
 
 Pay securely inside the app via **Squad** — Naira or USD.
 
