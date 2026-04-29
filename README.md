@@ -41,10 +41,14 @@
 
 ## 💳 Pricing
 
+> 🔥 **Early adopter pricing — lock it in before the price goes up**
+
 | Plan | NGN | USD |
 |------|-----|-----|
-| Monthly | ₦5,000 / mo | $5 / mo |
-| Yearly | ₦50,000 / yr | $45 / yr |
+| Monthly | ₦5,000 / mo ~~₦10,000~~ | $5 / mo ~~$10~~ |
+| Yearly | ₦50,000 / yr ~~₦100,000~~ | $45 / yr ~~$90~~ |
+
+Yearly subscribers lock in today's rate permanently. Once the price increases, existing subscribers keep their current price — new signups pay the higher rate.
 
 Pay securely inside the app via **Squad** — Naira or USD.
 
